@@ -1,5 +1,5 @@
 # SSL Commerz Android kotlin
-![N|Solid](https://www.sslcommerz.com/wp-content/uploads/2019/11/footer_logo.png)
+![Sslcommerz logo](https://www.sslcommerz.com/wp-content/uploads/2019/11/footer_logo.png)
 
 Official Documentation: 
 
