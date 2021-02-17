@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SSl Commerz</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="pay_now">Pay Now</string>
+</resources>
